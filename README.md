@@ -18,3 +18,4 @@
 本项目合约基于 MoveDID 。 项目地址 <https://github.com/NonceGeek/MoveDID>。
 
 本项目由 [NonceGeek DAO](https://noncegeek.com/#/) 维护。
+# scaffold-aptos
